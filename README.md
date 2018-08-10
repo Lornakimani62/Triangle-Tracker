@@ -40,7 +40,7 @@ Google<br>
 
 
 # License
-GNU
+GNU<br>
 
 
 <footer>&copy; Copyright 2018 HTML.am</footer>
