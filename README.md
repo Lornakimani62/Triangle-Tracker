@@ -26,6 +26,7 @@ Input Example: 7,5,6<br>
 Output Example: This is a scalene triangle<br>
 
 NOT a triangle: The sum of the lengths of any two sides of a triangle is less than or equal to the length of the third side<br>
+
 Input Example: 10,20,50<br>
 Output Example: This is an invalid triangle<br>
 
