@@ -13,7 +13,7 @@ If he/she chooses to to give up she he/she is deirected to the submit button.
 Clicking the submit button will prompt the user to enter the values of the sides of the triangles
 After this an alert will pop up indicating the values entered and the type of triangle it is from the given input
 # Input output
-Equilateral: All sides are equal.
+Equilateral: All sides are equal.<br>
 Input Example: 10,10,10
 Output Example: This is an equilateral triangle
 
