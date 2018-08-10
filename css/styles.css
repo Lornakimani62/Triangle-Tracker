@@ -1,1 +1,13 @@
-
+.triangle{
+  border: 30%;
+  margin: 30%;
+  text-align: center;
+}
+.bold{
+font-size: 18;
+font-weight: bold;
+font-family: sans-serif;
+}
+.em{
+  font-style: italic;
+}
