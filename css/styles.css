@@ -1,7 +1,13 @@
+body{
+  background-image: url(../images/back.gif);
+}
+
 .triangle{
-  border: 30%;
-  margin: 30%;
+  color: white;
+  border: 10%;
+  margin: 10%;
   text-align: center;
+  opacity: 0.9;
 }
 .bold{
 font-size: 18;
