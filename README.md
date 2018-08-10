@@ -3,7 +3,7 @@ Triangle Tracker-A simple program to determine the type of triangle from the use
 
 # Author-Name
 Lorna Nashipae Kimani
-
+ 
 # Description
 The Triangle Tracker is a website that accepts input from the user and determines what type of triangle it is.
 
