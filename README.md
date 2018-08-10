@@ -38,8 +38,12 @@ Css<br>
 Atom<br>
 Google<br>
 
-<footer>&copy; Copyright 2018 HTML.am</footer>
 
+### License
+*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+
+
+<footer>&copy; Copyright 2018 HTML.am</footer>
 
 
 
